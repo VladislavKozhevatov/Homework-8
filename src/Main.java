@@ -48,7 +48,6 @@ public class Main {
             }
         }
 
-
         // Задача 4
 //Пройдитесь по первому целочисленному массиву и все нечетные числа в нем сделайте четными (нужно прибавить 1).
         System.out.println();
@@ -59,7 +58,6 @@ public class Main {
             }
         }
         System.out.println(Arrays.toString(numbers));
-
     }
 
 }
